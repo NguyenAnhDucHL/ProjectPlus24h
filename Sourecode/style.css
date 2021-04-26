@@ -1,3 +1,68 @@
-@media screen and (min-width: 320px) {
+@media screen and (min-width: 375px) {
+  #navbarText{
+     font-size: 0.65rem;
+   }
+   .fa-plus:before
+   {
+     content: none;
+   }
+   .fa-signal:before
+   {
+     content: none;
+   }
+   .fa-thumbs-up:before
+   {
+     content: none;
+   }
+   .fa-grin:before
+   {
+     content: none;
+   }
+   .fa-user-circle:before
+   {
+     content: none;
+   }
+   .fa-comments:before
+   {
+     content: none;
+   }
+   .fa-comment-alt:before
+   {
+     content: none;
+   }
+
+   .fa-user-plus:before
+   {
+     content: none;
+   }
+   .fa-users:before
+   {
+     content: none;
+   }
+   .fa-check-double:before
+   {
+     content: none;
+   }
+   .fa-hand-paper:before
+   {
+     content: none;
+   }
+
+   .fa-backspace:before
+   {
+     content: none;
+   }
+   .fa-expand:before
+   {
+     content: none;
+   }
+   .fa-newspaper:before
+   {
+     content: none;
+   }
+   .fa-cogs:before
+   {
+     content: none;
+   }
 
 }
